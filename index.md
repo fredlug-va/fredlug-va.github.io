@@ -8,7 +8,7 @@ font:
 ---
 
 # It's moving day!
-### at Fredericksburg Linux Users Group (FredLUG) VA
+## at Fredericksburg Linux Users Group (FredLUG) VA
 
 Hello there - thank you for your interest in our local group for Linux interested people in the Fredericksburg area.
 
