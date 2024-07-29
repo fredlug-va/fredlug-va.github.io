@@ -2,6 +2,8 @@ relative_links:
   enabled: true
   collections: true
 
+theme: jekyll-theme-minimal
+
 # Where things are
 source              : .
 destination         : ./_site
@@ -48,7 +50,7 @@ incremental         : false
 # Outputting
 permalink           : date
 paginate_path       : /page:num
-timezone            : null
+timezone            : America/New_York
 
 quiet               : false
 verbose             : false
