@@ -1,9 +1,9 @@
 ---
 title: FredLUG is moving
-theme: jekyll-theme-minimal
+theme: jekyll-theme-merlot
 font:
   - file: 'assets/fonts/OpenSans-Bold.ttf'
-    id: arial
+    id: myfont
     size: 28
 ---
 

@@ -1,3 +1,5 @@
+title: Home of Fredericksburg Linux Users Group (FREDLUG)
+
 relative_links:
   enabled: true
   collections: true
@@ -33,10 +35,13 @@ limit_posts         : 0
 future              : false
 unpublished         : false
 
+remote_theme: pages-themes/merlot@v0.2.0
+
 # Plugins
 whitelist           : []
 plugins             :
   - jekyll-relative-links
+  - jekyll-remote-theme
 
 # Conversion
 markdown            : kramdown
