@@ -1,3 +1,7 @@
+relative_links:
+  enabled: true
+  collections: true
+
 # Where things are
 source              : .
 destination         : ./_site
@@ -29,7 +33,8 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             :
+  - jekyll-relative-links
 
 # Conversion
 markdown            : kramdown
