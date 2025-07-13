@@ -1,4 +1,6 @@
 title: Home of Fredericksburg Linux Users Group (FREDLUG)
+email: ego.alter@gmail.com
+url: "https://fredlug-va.github.io/"
 
 relative_links:
   enabled: true
@@ -53,12 +55,12 @@ incremental         : false
 # Serving
 
 # Outputting
-permalink           : /:categories/:year/:title:output_ext
+permalink           : /:year/:title:output_ext
 paginate_path       : /page:num
 timezone            : America/New_York
 
 quiet               : false
-verbose             : false
+verbose             : true
 defaults            : []
 
 liquid:
