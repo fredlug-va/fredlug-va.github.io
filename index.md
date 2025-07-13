@@ -35,6 +35,12 @@ title: Home
           {%- endfor -%}
         </div>
       </div>
+      <div class="keylinks">
+        <p>Links:
+        <li><a href="/about">About</a></li>
+        <li><a href="https://maps.app.goo.gl/EHfz4pyV1nYSSjLL8">Location</a></li>
+        </p>
+      </div>
     </aside>
 
     <!-- Main content area with posts -->
