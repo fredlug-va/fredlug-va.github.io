@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RF modulation with Linux and Raspberry Pis
-date: 2024-08-24 12:00
+date: 2024-08-24
 category: Linux, Raspberry Pi, RF
 author: Jackson Allyn
 tags: [meeting]

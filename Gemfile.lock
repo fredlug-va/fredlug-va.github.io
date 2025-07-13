@@ -215,6 +215,7 @@ GEM
     listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.6.4)
     mercenary (0.3.6)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -270,6 +271,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
+    webrick (1.9.1)
 
 PLATFORMS
   aarch64-linux
@@ -303,6 +305,10 @@ DEPENDENCIES
   csv
   github-pages
   jekyll
+  jekyll-feed
+  jekyll-sitemap
+  logger
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.5.16
