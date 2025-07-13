@@ -1,6 +1,8 @@
 ---
+layout: post
 title: FredLUG is moving
 theme: jekyll-theme-merlot
+date: 2024-07-28
 font:
   - file: 'assets/fonts/OpenSans-Bold.ttf'
     id: myfont

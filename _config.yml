@@ -53,7 +53,7 @@ incremental         : false
 # Serving
 
 # Outputting
-permalink           : date
+permalink           : /:categories/:year/:title:output_ext
 paginate_path       : /page:num
 timezone            : America/New_York
 
