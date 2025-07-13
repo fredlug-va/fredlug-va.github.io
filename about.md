@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About FredLUG
 permalink: /about/
 theme: jekyll-theme-merlot
