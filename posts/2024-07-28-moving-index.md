@@ -8,7 +8,6 @@ font:
     id: myfont
     size: 28
 ---
-
 # It's moving day!
 ## at Fredericksburg Linux Users Group (FredLUG) VA
 
