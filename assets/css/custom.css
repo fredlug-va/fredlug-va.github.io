@@ -1,0 +1,119 @@
+/* Custom CSS for FREDLUG website */
+/* This file contains custom styles that override the theme */
+
+/* Custom post styling */
+.post {
+  margin-bottom: 2em;
+}
+
+.post-title {
+  /* color: #2c5aa0 !important; */
+  border-bottom: 2px solid #2c5aa0;
+  padding-bottom: 0.5em;
+}
+
+.post-meta {
+  color: #666 !important;
+  font-style: italic;
+  margin-bottom: 1em;
+}
+
+header.post-header {
+  top: 0;
+}
+
+/* Override header colors */
+header h1 {
+  background-color: #7c334f !important; /* Re-enable background color */
+  color: white !important;
+  text-transform: none !important; /* Remove uppercase */
+  font-size: 1.8em !important; /* Reduce size */
+  padding: 10px 20px !important; /* Adjust padding */
+}
+
+header h2 {
+  background-color: #7c334f !important; /* Re-enable background color */
+  color: #ccddff !important;
+  font-size: 1em !important; /* Make subtitle smaller */
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: block; /* Make the anchor element a block to enable text-align */
+    background-color: #7c334f !important; /* Match the h1/h2 background */
+    padding: 10px 20px !important; /* Match the h1 padding */
+    margin: 0; /* Remove any default margins */
+}
+
+/* Fix post content structure */
+.post-content h1 {
+  color: white !important;
+  font-size: 1.6em !important;
+  margin-top: 0 !important;
+  margin-bottom: 1em !important;
+  border-bottom: 2px solid #2c5aa0;
+  padding-bottom: 0.5em;
+  text-transform: none !important;
+}
+
+.post-content h2 {
+  color: #1a4480 !important;
+  font-size: 1.3em !important;
+  margin-top: 3em !important;
+  margin-bottom: 0.8em !important;
+  text-transform: none !important;
+}
+
+/* DISABLED
+/* .post-header .post-title { */
+/* display: none; Hide the duplicate title since content has its own h1 */
+/* } Hide or style the duplicate post title */
+
+
+/* Override link colors */
+a, a:hover {
+  color: #2c5aa0 !important;
+}
+
+a:hover {
+  color: #1a4480 !important;
+}
+
+/* Custom section styling */
+section#main_content {
+  padding: 30px 82px 0;
+}
+
+/* Improve post meta styling */
+.post-meta {
+  color: #666 !important;
+  font-style: italic;
+  margin-bottom: 1em !important;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Add better spacing for post content */
+.post-content {
+  line-height: 1.6;
+}
+
+.post-content p {
+  margin-bottom: 1em;
+  color: #444;
+}
+
+/* Style links in post content */
+.post-content a {
+  color: #2c5aa0 !important;
+  text-decoration: underline;
+}
+
+.post-content a:hover {
+  color: #1a4480 !important;
+  text-decoration: none;
+}
+
+/* Add more custom styles below */

@@ -1,0 +1,57 @@
+---
+---
+
+// @import "{{ site.theme }}";
+// If you need to import a specific SCSS file, use a direct path like:
+// @import "theme";
+
+/* Custom CSS customizations go here */
+/* This file will override the theme's default styles */
+
+/* Example customizations: */
+
+/* Change header colors */
+/*
+header h1 {
+  background-color: #2c5aa0 !important;
+  color: #ffffff !important;
+}
+
+header h2 {
+  background-color: #2c5aa0 !important;
+  color: #ccddff !important;
+}
+*/
+
+/* Change link colors */
+/*
+a, a:hover {
+  color: #2c5aa0 !important;
+}
+*/
+
+/* Custom spacing */
+/*
+section#main_content {
+  padding: 30px 82px 0;
+}
+*/
+
+/* Add your custom styles below this line */
+
+/* Example: Custom post styling */
+.post {
+  margin-bottom: 2em;
+}
+
+.post-title {
+  color: #2c5aa0;
+  border-bottom: 2px solid #2c5aa0;
+  padding-bottom: 0.5em;
+}
+
+.post-meta {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 1em;
+}

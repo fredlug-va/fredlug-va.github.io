@@ -4,7 +4,7 @@ title: Home
 ---
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Meetings</h1>
 
   {%- assign allPosts = site.posts -%}
 
