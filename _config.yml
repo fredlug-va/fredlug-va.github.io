@@ -32,8 +32,8 @@ strict_front_matter : false
 # Filtering Content
 show_drafts         : null
 limit_posts         : 0
-future              : false
-unpublished         : false
+future              : true
+unpublished         : true
 
 remote_theme: pages-themes/merlot@v0.2.0
 

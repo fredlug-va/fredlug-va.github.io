@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Frederickburg Linux Users Group
+theme: jekyll-theme-merlot
 ---
 
 <div class="home">
